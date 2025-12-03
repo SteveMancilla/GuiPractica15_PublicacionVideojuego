@@ -2,7 +2,7 @@
   
 # 🎮 PRISMATRIX  
 
-### *Retro sci-fi pixel-art puzzle game based on lasers, prisms and light logic*
+### *Juego de puzzles retro de ciencia ficción en pixel art, donde la mecánica principal se basa en láseres, prismas y lógica de luz*
 
 <img src="https://img.shields.io/badge/Engine-Unity%206-000000?logo=unity&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge">
